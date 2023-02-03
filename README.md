@@ -4,17 +4,15 @@ Lua scripts for mod engines
 # How To Use
 For every script there is a different use and ways to fully take advantage on other modders. 
 
-For Kiddions script is just puting the script into scripts directory, inside the Kiddions files.
+For Kiddions script is just putting the script into scripts directory, inside the Kiddions files.
 
 
 --------------------------------------------------------------------------------------------------
 
 ## GtaVScripts 
-Im presenting you some Gta V Scripts.
+I'm presenting you some Gta V Scripts.
 
 1- A really nice Lua, complement for kiddions modding engine for Gta V.
-
-2- A nice Lua for Stand!, a paid modding engine that has more features and a super nice Lua api.
 
 --------------------------------------------------------------------------------------------------
 ## Questions Ryze-Kiddions-GtaV: 
