@@ -1,5 +1,5 @@
 # GtaVScripts
-Lua scripts for mod engines
+Lua scripts for mod menus. Game build version needed 2824
 
 # How To Use
 For every script there is a different use and ways to fully take advantage on other modders. 
