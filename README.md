@@ -25,3 +25,6 @@ No ETA for big updates also because i don't know actually if im going to be able
 -  By the way to anyone who ask's about the stand script, is not entire mine, there is actually in credits every single person who i taked code from and who helped me with this.
 ## Last Kiddions update: 2/02/2023
 ## Last Stand update: 2/02/2023
+
+
+##Can't find original repo to give creds/fork. Would be glad to recognize the author/s
